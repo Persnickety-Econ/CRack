@@ -1,0 +1,4 @@
+digital
+fiche
+fixed
+rescan

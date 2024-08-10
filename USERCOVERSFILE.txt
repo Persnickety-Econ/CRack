@@ -1,0 +1,3 @@
+\d+ +of +\d [Cc]overs 
+\d+ covers
+\w+ covers

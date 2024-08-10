@@ -1,0 +1,13 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="1">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1128" startPos="0" endPos="0" selMode="0" lang="Python" encoding="-1" filename="C:\Users\apm\AppData\Roaming\cYo\ComicRack\Scripts\MoreScanInformationFromFilename\MoreScanInformationFromFilename.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="744" startPos="0" endPos="0" selMode="0" lang="MS INI file" encoding="-1" filename="C:\Users\apm\AppData\Roaming\cYo\ComicRack\Scripts\MoreScanInformationFromFilename\Package.ini" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3048" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Users\apm\AppData\Roaming\cYo\ComicRack\Scripts\MoreScanInformationFromFilename\blacklist.txt" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Users\apm\AppData\Roaming\cYo\ComicRack\Scripts\MoreScanInformationFromFilename\scanners.txt" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Users\apm\AppData\Roaming\cYo\ComicRack\Scripts\MoreScanInformationFromFilename\settings.dat" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Users\apm\AppData\Roaming\cYo\ComicRack\Scripts\MoreScanInformationFromFilename\userblacklist.txt" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
